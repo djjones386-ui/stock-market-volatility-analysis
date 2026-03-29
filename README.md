@@ -1,6 +1,8 @@
 # Stock Volatility Analysis (Tech vs Energy)
 
 ## Overview
+## File
+Download dataset: [Stock_Volatility_Data.xlsx](./Stock_Volatility_Data.xlsx)
 This project analyzes the volatility and average daily returns of major tech and energy stocks.
 
 ## Data

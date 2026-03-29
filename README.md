@@ -19,8 +19,7 @@ This project analyzes the volatility and average daily returns of major tech and
 | MSFT  | 0.05%           | 1.65%     |
 | XOM   | 0.10%           | 1.67%     |
 | CVX   | 0.07%           | 1.58%     |
-## Visualization
-![Stock Volatility Chart](Stock Volatility Comparison (Tech vs Energy).png)
+
 ## Key Insight
 Tech stocks showed slightly higher volatility, indicating greater short-term price fluctuations, while energy stocks were more stable with comparable returns.
 

@@ -9,7 +9,8 @@ This project analyzes the volatility and average daily returns of major tech and
 ## Data
 - Source: Yahoo Finance
 - Stocks analyzed: AAPL, MSFT, XOM, CVX
-
+- Time period: 5-year historical data (2020–2025)
+  
 ## Methodology
 - Calculated daily returns
 - Computed average daily return
